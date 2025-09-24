@@ -14,3 +14,6 @@
 2. In the console, you'll see the following:
 
 <img width="600" height="626" alt="image" src="https://github.com/user-attachments/assets/b92d9623-58f4-49ee-b321-f811a1e1029b" />
+
+## Reanimated Issue
+Opened this issue to track: https://github.com/software-mansion/react-native-reanimated/issues/8285
