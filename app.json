@@ -11,9 +11,7 @@
   },
   "newArchEnabled": true,
   "jsEngine": "hermes",
-  "assetBundlePatterns": [
-    "**/*"
-  ],
+  "assetBundlePatterns": ["**/*"],
   "android": {
     "icon": "./assets/images/app-icon-android-legacy.png",
     "package": "com.expo54",
@@ -35,6 +33,7 @@
   },
   "plugins": [
     "expo-localization",
+    "expo-build-properties",
     "expo-font",
     [
       "expo-splash-screen",
